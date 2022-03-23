@@ -17,4 +17,3 @@ app/logs/debug.log
 app/logs/celery.log
 .env
 /k8s/secrets/
-db.sqlite3
