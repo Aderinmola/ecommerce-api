@@ -15,10 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import include,path
-<<<<<<< HEAD
 from drf_spectacular.views import SpectacularAPIView, SpectacularRedocView, SpectacularSwaggerView
-=======
->>>>>>> 8a359a5 (endpoint registration)
 
 urlpatterns = [
      # YOUR PATTERNS
